@@ -17,7 +17,20 @@ This test may be designed to run longer than the two hour mark however. If you r
 - Once all issues have been resolved you should submit a link to your new repository by email to alan.cole@satmap.com for review.
 
 
-# PHP
+## 1. PHP + MySQL
 Files in ``./php`` this script should load the data in  ``./data/table.sql`` receive a longitude and latitude and return the closet 10 entries. 
 
-This script does not calculate distance. See ticket #1 for more information in improvements/ 
+This script does not calculate distance. See ticket #1 for more information in improvements. 
+
+## 2. CSS + HTML
+
+Write a loading spinning circle using no images and @keyframes animation. See ticket #2 for more information.
+
+## 3. Javascript
+
+## 4. Javascript
+
+## 5. Javascript
+
+
+
