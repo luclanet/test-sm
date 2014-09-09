@@ -1,5 +1,5 @@
 # Satmap Candidate Test
-This is the test for candidates for the current developer position at satmap systems. This test has 5 parts, candidates should limit themselves to two hours. 
+This is the test for candidates for the current developer position at satmap systems. This test has 5 parts, candidates should limit themselves to around two hours. 
 
 This test may be designed to run longer than the two hour mark however. If you reach the time mark without completion you should consider the test finished. 
 
