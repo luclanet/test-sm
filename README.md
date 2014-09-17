@@ -6,7 +6,7 @@ Candidates should look to limit themselves to around two hours though this test 
 These tests do not need to be performed in the order they've been assigned.
 
 ## Workflow
-- Candidates should clone this repository to their own account. DONT FORK! 
+- Candidates should clone this repository to their own account. __DONT FORK!__ 
 	(Ideally the new repo would be private but for those without a pro account this isn't required, just avoid linking to the reposity in a public way as other candidates may discover you and your code.)
 	
 - @satmap should be added as a collaborator on this new repository.
@@ -19,3 +19,4 @@ These tests do not need to be performed in the order they've been assigned.
 - Once all issues have been resolved you should submit a link to your new repository by email to alan.cole@satmap.com for review.
 
 
+__Please do not submit your code publically by pull request.__
