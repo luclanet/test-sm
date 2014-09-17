@@ -7,7 +7,7 @@ These tests do not need to be performed in the order they've been assigned.
 
 ## Workflow
 - Candidates should clone this repository to their own account. __DONT FORK!__ 
-	(Ideally the new repo would be private but for those without a pro account this isn't required, just avoid linking to the reposity in a public way as other candidates may discover you and your code.)
+	(Ideally the new repo would be private but for those without a pro account this isn't required, just avoid linking to the repository in a public way as other candidates may discover you and your code.)
 	
 - @satmap should be added as a collaborator on this new repository.
 
