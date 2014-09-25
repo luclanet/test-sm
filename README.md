@@ -9,7 +9,7 @@ These tests do not need to be performed in the order they've been assigned.
 - Candidates should clone this repository to their own account. __DONT FORK!__ 
 	(Ideally the new repo would be private but for those without a pro account this isn't required, just avoid linking to the repository in a public way as other candidates may discover you and your code.)
 	
-- @satmap should be added as a collaborator on this new repository.
+- @waxim should be added as a collaborator on this new repository.
 
 - The issues listed within the issues tab of this repository should be fixed on the new repo each with its own issue branch.
 	(You don't need to remake these issues in your repo unless you'd like to, simple reference ticket numbers in branch names)
